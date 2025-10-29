@@ -228,32 +228,6 @@ npm install -g vercel
 # Deploy
 vercel --prod
 ```
-
-## 🔮 Future Enhancements
-
-### Phase 2 (Backend Integration)
-- [ ] Connect to Express/MongoDB backend
-- [ ] Real authentication with JWT
-- [ ] File upload to cloud storage
-- [ ] Real-time notifications
-- [ ] Email notifications
-
-### Phase 3 (Advanced Features)
-- [ ] Dark mode toggle
-- [ ] User profile page
-- [ ] Comment system
-- [ ] Upvote/downvote
-- [ ] Map integration
-- [ ] Priority levels
-- [ ] Status timeline
-- [ ] Admin dashboard
-
-### Phase 4 (Mobile)
-- [ ] React Native mobile app
-- [ ] Push notifications
-- [ ] Offline support
-- [ ] Camera integration
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
